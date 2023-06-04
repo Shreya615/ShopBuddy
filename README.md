@@ -53,7 +53,7 @@ To deploy this project run
 ## Screenshots
 
 ###Home page for user
-![Home Page](https://github.com/Shreya615/ShopBuddy/blob/master/screenshots/Screenshot%20(29).png?raw=true)
+![Home Page](https://github.com/Shreya615/ShopBuddy/blob/master/screenshots/portfolio1.png)
 
 ###JavaScript for motion in banner
 ![Motion](https://github.com/Shreya615/ShopBuddy/blob/master/screenshots/Screenshot%20(30).png?raw=true)
