@@ -56,7 +56,7 @@ To deploy this project run
 ![Home Page](https://github.com/Shreya615/ShopBuddy/blob/master/screenshots/portfolio1.png)
 
 ###JavaScript for motion in banner
-![Motion](https://github.com/Shreya615/ShopBuddy/blob/master/screenshots/Screenshot%20(30).png?raw=true)
+![Motion](https://github.com/Shreya615/ShopBuddy/blob/master/screenshots/Screenshot%20(80).png)
 
 ###Apparels for shopping
 ![Apparels](https://github.com/Shreya615/ShopBuddy/blob/master/screenshots/Screenshot%20(36).png?raw=true)
